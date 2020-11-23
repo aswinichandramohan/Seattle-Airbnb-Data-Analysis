@@ -90,7 +90,6 @@ Broadway fetches the Airbnb’s highest revenue in Seattle
 ![Page4 screenshot](/images/Page4.JPG)
 
 #### Finding 1: The top 5 neighbourhood having maximum number of availability:
-
 ```
 Holly park - 354
 Roxhill - 348
@@ -112,30 +111,42 @@ Townhouse
 ![Page5 screenshot](/images/Page5.JPG)
 
 #### Finding 1: Highest number of listings in the neighbourhoods based on the property type(Apartment)
+```
 Broadway - 292
 Belltown - 208
 First Hill - 99
 Central Business District - 93
 University District - 76
+```
+
 #### Finding 2: Highest number of listings in the neighbourhood based on the property type(Condominium)
+```
 Belltown - 18
 Broadway - 9
 First Hill - 8
 Central Business District - 6
 Lower queen Anne - 6
+```
+
 #### Finding 3: Highest number of listings in the neighbourhood based on the property type(House)
+```
 Wallingford - 111
 Broadway - 84
 Minor - 76
 Fremont - 68
 Greenwood - 64
+```
+
 #### Finding 4: Highest number of listings in the neighbourhood based on the property type(Townhouse)
+```
+
 Mann - 10
 Minor - 10
 Fremont - 8
 Broadway - 7
 Leschi - 6
 Lower Queen Anne - 6
+```
 
 From the findings, it is very clear apartments have highest number of listings in overall.
 
