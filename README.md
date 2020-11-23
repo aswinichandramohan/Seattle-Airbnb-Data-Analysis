@@ -71,3 +71,79 @@ Westlake - $775
 ```
 
 According to the map, It is very clear that the most expensive listings are in the most prime neighborhoods and closer to downtown. Roosevelt has the highest maximum price of 1000 dollars
+
+### The average revenue of listings in each neighbourhood area
+![Page3 screenshot](/images/Page3.JPG)
+
+#### Finding 1: Top 5 Airbnb properties which can bring the highest revenue are
+```
+Broadway - $3,068,138
+Central Business District - $1,179,249
+Belltown - $1,153,043
+Fremont - $966,833
+First Hill - $952,564
+```
+
+Broadway fetches the Airbnb’s highest revenue in Seattle 
+
+### The Average availability of top 5 neighbourhood per year
+![Page4 screenshot](/images/Page4.JPG)
+
+#### Finding 1: The top 5 neighbourhood having maximum number of availability:
+
+```
+Holly park - 354
+Roxhill - 348
+High Point - 344
+Highland Park - 319
+Briarcliff - 315
+```
+
+From the map, it is more evident that the maximum number of availability totally depends on least popular neighbourhood which is away from the downtown.
+
+### Number of listings based on the property type 
+There are many property types mentioned in the data sets.
+Here I am taking four popular property type:
+Apartments
+Condominium
+House
+Townhouse
+
+![Page5 screenshot](/images/Page5.JPG)
+
+#### Finding 1: Highest number of listings in the neighbourhoods based on the property type(Apartment)
+Broadway - 292
+Belltown - 208
+First Hill - 99
+Central Business District - 93
+University District - 76
+#### Finding 2: Highest number of listings in the neighbourhood based on the property type(Condominium)
+Belltown - 18
+Broadway - 9
+First Hill - 8
+Central Business District - 6
+Lower queen Anne - 6
+#### Finding 3: Highest number of listings in the neighbourhood based on the property type(House)
+Wallingford - 111
+Broadway - 84
+Minor - 76
+Fremont - 68
+Greenwood - 64
+#### Finding 4: Highest number of listings in the neighbourhood based on the property type(Townhouse)
+Mann - 10
+Minor - 10
+Fremont - 8
+Broadway - 7
+Leschi - 6
+Lower Queen Anne - 6
+
+From the findings, it is very clear apartments have highest number of listings in overall.
+
+### How is the growth of Airbnb listings in each year
+
+![Page6 screenshot](/images/Page6.JPG)
+
+The datasets I took is from the year 2008 to 2015. 2008 is the year Airbnb started.
+From the graph, it showed the growth of Airbnb property listings. The number of listings have got increased every year.
+I also have a graph showing the total listing count based on room type(Entire Home, Private room, Shared room). In that we could see the growth of listing apartments is more each year. 
+
