@@ -3,13 +3,13 @@
 ## Introduction
 Airbnb is a vacation rental online marketplace. It acts as a broker receiving commissions from host and the guests from each booking. Airbnb charges 3% from the hosts and 6% -12% depend on the type of booking from the guests. The price differs according to city, area, neighborhood.
 
-I have done my project in the city called Seattle where I live which in Washington state. 
+I have done my project in the city called Seattle which in Washington where I live . 
 
 ## Objectives
 The aim of the project is to determine how the property listing of Airbnb in Seattle depends on.
-1. Determining the average price on each property with respective to number of listing in each neighbourhood, number of reviews, number of beds and property type(Apartment, House, Townhouse, Condominium etc).
-2. Top 5 neighbourhood having maximum price
-3. Average revenue in each neighbourhoods
+1. Determining the average price on each property with respective to number of listing in each neighborhood, number of reviews, number of beds and property type(Apartment, House, Townhouse, Condominium etc).
+2. Top 5 neighborhood having maximum price
+3. Average revenue in each neighborhoods
 4. The Average availability of top 5 neighbourhood per year
 5. Number of listings based on the property type 
 6. How is the growth of Airbnb listings in each year
@@ -37,7 +37,7 @@ Private room: $75.04
 Shared room: $47.55
 ```
 
-#### Finding 2: Top 5 neighbourhood having highest number of reviews:
+#### Finding 2: Top 5 neighborhood having highest number of reviews:
 ```
 Broadway - 8312
 Belltown - 4439
@@ -46,7 +46,7 @@ Wallingford - 3788
 First Hill - 2358
 ```
 
-#### Finding 3: Top 5 neighbourhood having highest number of Airbnb property listings:
+#### Finding 3: Top 5 neighborhood having highest number of Airbnb property listings:
 ```
 Belltown - 7639
 Central Business District - 3978
@@ -57,11 +57,11 @@ Wallingford - 1274
 
 From the graphs, the average price of a listing doesn’t depend on the combination of neighborhoods and number of reviews.
 
-### The top 5 most expensive neighbourhoods listings:
+### The top 5 most expensive neighborhoods listings:
 
 ![Page2 screenshot](/images/Page2.JPG)
 
-#### Finding 1: Top 5 neighbourhoods having highest maximum price:
+#### Finding 1: Top 5 neighborhoods having highest maximum price:
 ```
 Roosevelt - $1,000
 Belltown - $999
@@ -72,7 +72,7 @@ Westlake - $775
 
 According to the map, It is very clear that the most expensive listings are in the most prime neighborhoods and closer to downtown. Roosevelt has the highest maximum price of 1000 dollars
 
-### The average revenue of listings in each neighbourhood area
+### The average revenue of listings in each neighborhood area
 ![Page3 screenshot](/images/Page3.JPG)
 
 #### Finding 1: Top 5 Airbnb properties which can bring the highest revenue are
@@ -86,10 +86,10 @@ First Hill - $952,564
 
 Broadway fetches the Airbnb’s highest revenue in Seattle 
 
-### The Average availability of top 5 neighbourhood per year
+### The Average availability of top 5 neighborhood per year
 ![Page4 screenshot](/images/Page4.JPG)
 
-#### Finding 1: The top 5 neighbourhood having maximum number of availability:
+#### Finding 1: The top 5 neighborhood having maximum number of availability:
 ```
 Holly park - 354
 Roxhill - 348
@@ -98,10 +98,10 @@ Highland Park - 319
 Briarcliff - 315
 ```
 
-From the map, it is more evident that the maximum number of availability totally depends on least popular neighbourhood which is away from the downtown.
+From the map, it is more evident that the maximum number of availability totally depends on least popular neighborhood which is away from the downtown.
 
 ### Number of listings based on the property type 
-There are many property types mentioned in the data sets.
+There are many property types mentioned in the datasets.
 Here I am taking four popular property type:
 Apartments
 Condominium
@@ -110,7 +110,7 @@ Townhouse
 
 ![Page5 screenshot](/images/Page5.JPG)
 
-#### Finding 1: Highest number of listings in the neighbourhoods based on the property type(Apartment)
+#### Finding 1: Highest number of listings in the neighborhoods based on the property type(Apartment)
 ```
 Broadway - 292
 Belltown - 208
@@ -119,7 +119,7 @@ Central Business District - 93
 University District - 76
 ```
 
-#### Finding 2: Highest number of listings in the neighbourhood based on the property type(Condominium)
+#### Finding 2: Highest number of listings in the neighborhood based on the property type(Condominium)
 ```
 Belltown - 18
 Broadway - 9
@@ -128,7 +128,7 @@ Central Business District - 6
 Lower queen Anne - 6
 ```
 
-#### Finding 3: Highest number of listings in the neighbourhood based on the property type(House)
+#### Finding 3: Highest number of listings in the neighborhood based on the property type(House)
 ```
 Wallingford - 111
 Broadway - 84
@@ -137,7 +137,7 @@ Fremont - 68
 Greenwood - 64
 ```
 
-#### Finding 4: Highest number of listings in the neighbourhood based on the property type(Townhouse)
+#### Finding 4: Highest number of listings in the neighborhood based on the property type(Townhouse)
 ```
 
 Mann - 10
