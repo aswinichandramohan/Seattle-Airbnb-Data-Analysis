@@ -62,7 +62,7 @@ From the graphs, we can see that the average price of a listing doesn’t depend
 
 ![Page2 screenshot](/images/Page2.JPG)
 
-#### Finding 1: Top 5 neighborhoods having the highest maximum price:
+#### Finding : Top 5 neighborhoods having the highest maximum price:
 ```
 Roosevelt - $1,000
 Belltown - $999
@@ -92,7 +92,7 @@ Broadway fetches Airbnb’s highest revenue in Seattle.
 
 ![Page4 screenshot](/images/Page4.JPG)
 
-#### Finding 1: The top 5 neighborhood having the highest availability:
+#### Finding: The top 5 neighborhood having the highest availability:
 ```
 Holly park - 354
 Roxhill - 348
